@@ -62,4 +62,4 @@ def clean_sentences(sentence: str) -> str:
 * huggingface_hub
 
 # Demo
-You can see Deom of this project in [https://huggingface.co/spaces/sirunchained/bad-comment-gradio](here).
+You can see Deom of this project in [here](https://huggingface.co/spaces/sirunchained/bad-comment-gradio).
