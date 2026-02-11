@@ -60,3 +60,6 @@ def clean_sentences(sentence: str) -> str:
 * skl2onnx
 * onnxruntime
 * huggingface_hub
+
+# Demo
+You can see Deom of this project in [https://huggingface.co/spaces/sirunchained/bad-comment-gradio](here).
